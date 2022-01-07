@@ -10,7 +10,7 @@ import (
 
 	"github.com/go-audio/audio"
 	"github.com/go-audio/wav"
-	"github.com/yobert/alsa"
+	"github.com/oakmound/alsa"
 )
 
 func main() {

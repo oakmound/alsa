@@ -3,8 +3,8 @@ package pcm
 import (
 	"fmt"
 
-	"github.com/yobert/alsa/alsatype"
-	"github.com/yobert/alsa/pcm/state"
+	"github.com/oakmound/alsa/alsatype"
+	"github.com/oakmound/alsa/pcm/state"
 )
 
 type Status struct {
