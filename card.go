@@ -6,7 +6,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/yobert/alsa/alsatype"
+	"github.com/oakmound/alsa/alsatype"
 )
 
 type Card struct {

@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/yobert/alsa"
+	"github.com/oakmound/alsa"
 )
 
 func main() {

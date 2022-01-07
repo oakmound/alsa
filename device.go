@@ -6,9 +6,9 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/yobert/alsa/alsatype"
-	"github.com/yobert/alsa/color"
-	"github.com/yobert/alsa/pcm"
+	"github.com/oakmound/alsa/alsatype"
+	"github.com/oakmound/alsa/color"
+	"github.com/oakmound/alsa/pcm"
 )
 
 type DeviceType int
