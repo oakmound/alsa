@@ -2,7 +2,7 @@
 
 Fork
 --------
-This is a fork of [github.com/yobert/alsa](https://github.com/yobert/alsa) to add ARM64 support (and maybe do more down the line). Remaining readme text unaltered from upstream. 
+This is a fork of [github.com/yobert/alsa](https://github.com/yobert/alsa) to add ARM64 support (and maybe do more down the line).
 
 Synopsis
 --------
@@ -23,11 +23,6 @@ a sine wave for a few seconds on each detected ALSA output:
 
     go get github.com/oakmound/alsa/cmd/beep
     $GOPATH/beep
-
-And for recording from a microphone into a WAV file:
-
-    go get github.com/oakmound/alsa/cmd/record
-    $GOPATH/record
 
 This example does recording and playback, but it's got a really
 buggy ring buffer going on:
